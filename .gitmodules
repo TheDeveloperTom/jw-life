@@ -1,0 +1,6 @@
+[submodule "mobile-app"]
+      path = mobile-app
+      url = git@github.com:TheDeveloperTom/jw-life-mobile-app.git
+[submodule "backend"]
+      path = backend
+      url = git@github.com:TheDeveloperTom/jw-life-backend.git
